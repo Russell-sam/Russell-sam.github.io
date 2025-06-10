@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm passionate about cybersecurity and data science, where I explore the intersection of digital defense and data-driven insights
 twitter_username: username
 github_username: Russell-sam
-minimal_mistakes_skin: minimal-mistakes-jekyll
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Wangila Russell"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm passionate about cybersecurity and data science, where I explore the intersection of digital defense and data-driven insights."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
