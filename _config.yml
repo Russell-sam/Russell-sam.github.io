@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Wangila Russell"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/russ.jpg"
   bio    : "I'm passionate about cybersecurity and data science, where I explore the intersection of digital defense and data-driven insights."
   links:
     - label: "Website"
